@@ -25,8 +25,7 @@ logs
 *.sln
 
 # Environment variables
-.env
-.env.*.local
+#subidos con efectos prácticos para la prueba de desarrollo
 
 # Cache
 .cache
